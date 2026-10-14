@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "name": "HStream",
+      "title": "Captured stream 1",
+      "url": "https://koneko-str.musume-h.xyz/2023/Mako-chan.Kaihatsu.Nikki/E04/720/manifest.mpd"
+    },
+    {
+      "name": "HStream",
+      "title": "Captured stream 2",
+      "url": "https://koneko-str.musume-h.xyz/2023/Mako-chan.Kaihatsu.Nikki/E04/1080/manifest.mpd"
+    },
+    {
+      "name": "HStream",
+      "title": "Captured stream 3",
+      "url": "https://koneko-str.musume-h.xyz/2023/Mako-chan.Kaihatsu.Nikki/E04/2160/manifest.mpd"
+    },
+    {
+      "name": "HStream",
+      "title": "Captured stream 4",
+      "url": "https://koneko-str.musume-h.xyz/2023/Mako-chan.Kaihatsu.Nikki/E04/1080i/manifest.mpd"
+    }
+  ]
+}
