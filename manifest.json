@@ -1,0 +1,25 @@
+{
+  "id": "local.harha.hstream",
+  "version": "0.1.0",
+  "name": "HStream Local Static",
+  "description": "Static HStream catalogue",
+  "resources": [
+    "catalog",
+    "meta",
+    "stream",
+    "subtitles"
+  ],
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "hstream_"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "hstream",
+      "name": "HStream Episodes"
+    }
+  ]
+}
