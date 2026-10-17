@@ -19,7 +19,7 @@
   "catalogs": [
     {
       "type": "movie",
-      "id": "hstream_",
+      "id": "hstream",
       "name": "HStream Episodes"
     }
   ]
