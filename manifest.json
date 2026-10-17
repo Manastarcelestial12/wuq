@@ -1,3 +1,4 @@
+
 {
   "id": "local.harha.hstream",
   "version": "0.1.0",
@@ -7,18 +8,18 @@
     "catalog",
     "meta",
     "stream",
-    "subtitles"
+    {
+      "name": "subtitles",
+      "types": ["movie"],
+      "idPrefixes": ["hstream_"]
+    }
   ],
-  "types": [
-    "movie"
-  ],
-  "idPrefixes": [
-    "hstream_"
-  ],
+  "types": ["movie"],
+  "idPrefixes": ["hstream_"],
   "catalogs": [
     {
       "type": "movie",
-      "id": "hstream",
+      "id": "hstream_",
       "name": "HStream Episodes"
     }
   ]
